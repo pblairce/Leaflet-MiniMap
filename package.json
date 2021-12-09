@@ -1,6 +1,6 @@
 {
   "name": "leaflet-minimap-ce",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Norkart AS",
   "description": "A plugin for Leaflet that provides a minimap in the corner of the map view.",
   "keywords": [
